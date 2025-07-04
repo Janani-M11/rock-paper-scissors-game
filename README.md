@@ -6,19 +6,22 @@ A fun and interactive **Rock Paper Scissors game** built with:
 - 🌐 HTML, CSS & JavaScript (Web version)
 - 🚀 Deployed via **GitHub Pages**
 
-This project demonstrates core logic, web UI, and real-time interactivity for beginners and intermediate developers alike.
+This project demonstrates core logic, clean web UI, and real-time interactivity — perfect for beginners and intermediate developers.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```plaintext
 rock-paper-scissors-game/
-├── game.py # Python CLI version
-├── docs/ # Web version (deployed on GitHub Pages)
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
-├── README.md # Project documentation
+├── game.py                 # Python CLI version
+├── docs/                   # Web version (deployed on GitHub Pages)
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── README.md               # Project documentation
+└── requirements.txt        # Optional, for Python dependencies
+
 
 ## 🌐 Web Version
 
