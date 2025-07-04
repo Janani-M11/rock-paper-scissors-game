@@ -14,7 +14,7 @@ def play():
          (user == "scissors" and computer == "paper"):
         print("You win!")
     else:
-        print("Computer wins!")
+        print("Computer wins!") 
 
 if __name__ == "__main__":
     play()
