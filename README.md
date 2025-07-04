@@ -29,6 +29,16 @@ rock-paper-scissors-game/
 
 👉 [Click here to play the game online](https://janani-m11.github.io/rock-paper-scissors-game/)
 
+---
+
+### 🌟 Web Features
+
+- ✅ Stylish and responsive web interface  
+- ✅ Emoji-enhanced buttons (🪨 Rock, 📄 Paper, ✂️ Scissors)  
+- ✅ Real-time result display: you vs computer  
+- ✅ Smooth animations and clean layout using CSS  
+
+
 
 🌟 Web Features
 ✅ Stylish and responsive web interface
